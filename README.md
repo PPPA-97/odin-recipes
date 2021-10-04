@@ -1,1 +1,2 @@
-This project's purpose is to create a basic recipe website, as means to put in practice what I have learned in The Odin Project's html lessons. The website will consist of a main index page which will have links to a few recipes. This project will be revisited in the future to be styled with CSS.
+This project's purpose is to create a basic recipe website, as means to put in practice what I have learned in The Odin 
+Project's html and CSS lessons. The website will consist of a main index page which will have links to a few recipes.
